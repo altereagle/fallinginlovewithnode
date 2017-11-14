@@ -1,0 +1,4 @@
+/*
+Copy the ls example from the node docs
+Run a python file using this node script
+*/

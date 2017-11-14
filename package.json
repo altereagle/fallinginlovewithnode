@@ -1,0 +1,22 @@
+{
+  "name": "fallinginlovewithnode",
+  "version": "1.0.0",
+  "description": "Front end to back end JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altereagle/fallinginlovewithnode.git"
+  },
+  "author": "Kendell Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altereagle/fallinginlovewithnode/issues"
+  },
+  "homepage": "https://github.com/altereagle/fallinginlovewithnode#readme"
+}
