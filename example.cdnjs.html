@@ -3,3 +3,24 @@
 2. Add an element to the page
 3. Animate the element with jQuery
 -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <my-element>Hi there</my-element>
+  </body>
+
+  <script>
+    $(`my-element`)
+      .css({
+        fontSize: `3em`
+      })
+      .fadeOut(4000)
+      .fadeIn(5000);
+
+  </script>
+</html>

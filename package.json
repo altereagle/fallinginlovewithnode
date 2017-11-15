@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/altereagle/fallinginlovewithnode/issues"
   },
-  "homepage": "https://github.com/altereagle/fallinginlovewithnode#readme"
+  "homepage": "https://github.com/altereagle/fallinginlovewithnode#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
